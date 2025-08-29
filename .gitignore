@@ -13,6 +13,6 @@ __pycache__/
 .vscode/
 
 # DVC
-*.dvc
+
 .cache/
 .dvc/cache/
